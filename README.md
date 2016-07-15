@@ -24,3 +24,6 @@ Rundeck 2.6.x. The mentioned approach tested on 2.6.8.
 
 3. Add the script on crontab 
 */15 * * * * scriptpath/rundeck-failover.py
+
+# More Information refer below URL
+http://blog.pheonixsolutions.com/rundeck-failover-setup/
